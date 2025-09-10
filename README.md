@@ -1,3 +1,9 @@
+#
+
+https://github.com/user-attachments/assets/86d45bfe-9e9c-4d6c-9e32-37e2fa6c7b7e
+
+
+
 # 🚀 Employee Task Management System
 
 A modern, full-stack web application for managing employees and their daily tasks with smart time tracking and validation features.
